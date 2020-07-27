@@ -35,7 +35,3 @@ Replace the ip address with the address from your PLC. Try first if you are able
 
 You should see the first 6 leds flashing like here:
 [![S7-1200](resources/images/S7-1200.jpg)](https://youtu.be/1YarNPR-FwI)
-
-## Contributors
-
-This package was developed by Sven Bock and Wagdi Ben Yaala at [Generation Robots](http://www.generationrobots.com/en/)/[Humarobotics](http://www.humarobotics.com) in Bordeaux, France.
