@@ -30,7 +30,7 @@ Make sure you are able to ping the PLC from the workstation, where you execute y
 Start a modbus client that connects to a modbus server on PLC, running the programm of the resources directory. 
 Replace the ip address with the address from your PLC. Try first if you are able to ping it.
 ```
-	$ rosrun modbus_wrapper modbus_client_s7_1200.py _ip:="192.168.199" _port:=502
+	$ rosrun modbus_plc_siemens modbus_client_s7_1200.py _ip:="192.168.199" _port:=502
 ```
 
 You should see the first 6 leds flashing like here:
